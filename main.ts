@@ -49,7 +49,7 @@ scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile11`, function (sprite, 
 })
 let sprite: Sprite = null
 scene.setBackgroundImage(assets.image`myImage0`)
-game.splash("Star Runner")
+game.splash("Star Runner 2023")
 game.splash("Tap A to Continue")
 music.play(music.stringPlayable("D C D E C D C E ", 69), music.PlaybackMode.LoopingInBackground)
 game.showLongText("Jump Through The Stars and Try To Get To the End!", DialogLayout.Center)
