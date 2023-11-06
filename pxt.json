@@ -1,5 +1,5 @@
 {
-    "name": "Star Runner OG - TSA Official 22-23",
+    "name": "Star Runner OG",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.46",
+        "target": "1.13.18",
         "targetId": "arcade"
     },
     "supportedTargets": [
