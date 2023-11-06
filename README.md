@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://elkovideo.github.io/star-runner-og/](https://elkovideo.github.io/star-runner-og/)
+> Open this page at [https://elkovideo.github.io/star-runner-og-2023/](https://elkovideo.github.io/star-runner-og-2023/)
 
 ## Use as Extension
 
